@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "test 1",
+	"email": "test 1@test.com",
+	"phone": "123456789",
+	"city": "test 1",
+	"state": "test 1",
+	"country": "test 1",
+	"organization": "test 1",
+	"jobProfile": "test 1",
+	"additionalInfo": "test 1"
+}
